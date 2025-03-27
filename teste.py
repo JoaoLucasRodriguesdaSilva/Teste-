@@ -1,1 +1,1 @@
-print("Rosas são vermelhas\nVioletas são azuis\nEsse poema não tem rima")
+print("Rosas são vermelhas\nVioletas são azuis\n")
